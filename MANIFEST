@@ -1,0 +1,11 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/MetaLib/XService.pm
+lib/MetaLib/XService/Error.pm
+t/00_load.t
+t/10_login.t
+t/11_synchronous.t
+t/pod-coverage.t
+t/pod.t
